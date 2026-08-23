@@ -7,8 +7,8 @@
 [快速开始](#快速开始) · [五步工作流](#五步工作流) · [竞品图片采集](#竞品图片采集) · [文档导航](#文档导航) · [合规边界](#合规边界)
 
 <p align="center">
-  <a href="docs/workflow-v3.png">
-    <img src="docs/workflow-v3.png" alt="Amazon 图片与 A+ 内容生产 Skill 五步工作流" width="100%">
+  <a href="workflow-v3.png">
+    <img src="workflow-v3.png" alt="Amazon 图片与 A+ 内容生产 Skill 五步工作流" width="100%">
   </a>
 </p>
 
@@ -201,7 +201,7 @@ research/asins/<ASIN>/
 amazon-image-prompt-production/
 ├── SKILL.md
 ├── agents/openai.yaml
-├── docs/workflow-v3.png
+├── workflow-v3.png
 ├── references/
 │   ├── input-contract.md
 │   ├── competitor-image-research.md
