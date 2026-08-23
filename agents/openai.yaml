@@ -1,0 +1,6 @@
+interface:
+  display_name: "Amazon 生图与 A+ 策划"
+  short_description: "从竞品图片研究、动态选图到 Prompt、生图、排版与质检"
+  default_prompt: "使用 $amazon-image-prompt-production 根据产品实拍和核心关键词策划并制作一套 Amazon 图片。"
+policy:
+  allow_implicit_invocation: true
