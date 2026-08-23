@@ -1,0 +1,24 @@
+# Python 字节码 / 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行产物（每次跑完生成，非 skill 本体）
+runs/
+research/
+assets/
+strategy/
+qc/
+contact-sheet.*
+manifest.*
+
+# 浏览器 Profile / 登录数据（采集脚本专用，含敏感会话，勿提交）
+browser-profile-*/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
