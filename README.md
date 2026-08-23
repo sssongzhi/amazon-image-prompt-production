@@ -6,6 +6,10 @@
 
 适用于策划、制作或重做 Amazon Listing 视觉内容（主图 / 基础 A+ / 高级 A+）。**不负责** Seller Central 发布、A+ 资格确认或上线后的 A/B 数据回收。
 
+![Amazon 图片与 A+ 内容生产 Skill 工作流](docs/workflow-v3.webp)
+
+> 流程 V3 · 竞品视觉证据 × 动态选图 × 每图文案与 Prompt 一一绑定（先底图，后排版）。
+
 ---
 
 ## 特性
@@ -26,6 +30,8 @@ amazon-image-prompt-production/
 ├── SKILL.md                              # Skill 主文件：不可变边界、分支状态机与五步工作流
 ├── README.md                             # 本文件
 ├── .gitignore                            # 忽略运行产物 / 缓存 / 敏感浏览器 Profile
+├── docs/
+│   └── workflow-v3.webp                  # 流程 V3 工作流示意图（README 引用）
 ├── agents/
 │   └── openai.yaml                       # Agent 界面配置（显示名、描述与默认提示词）
 ├── references/
